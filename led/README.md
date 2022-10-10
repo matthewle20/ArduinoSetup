@@ -13,3 +13,6 @@
 
 ## Common Issues
 * Check direction of LEDs if not lighting up
+
+## Resources
+* [Digital Pins](https://docs.arduino.cc/learn/microcontrollers/digital-pins)

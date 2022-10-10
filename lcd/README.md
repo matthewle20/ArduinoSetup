@@ -15,3 +15,6 @@
   * VCC/Power should be connected to +5V
   * Output/Signal should be connected to LCD VO pin (pin3)
   * Ground should be connected to GND
+
+## Resources
+* [Liquid Crystal Displays (LCD) with Arduino](https://docs.arduino.cc/learn/electronics/lcd-displays)
