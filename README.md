@@ -8,3 +8,6 @@ Quickstart Arduino Uno Projects
 ## Sample Projects
 * [Testing Arduino Uno Board with LEDs](led)
 * [LCD Display with Arduino Uno](lcd)
+
+## Resources
+* [Liquid Crystal Displays (LCD) with Arduino](https://docs.arduino.cc/learn/electronics/lcd-displays)
