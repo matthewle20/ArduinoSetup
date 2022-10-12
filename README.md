@@ -9,3 +9,4 @@ Quickstart Arduino Uno Projects
 * [Testing Arduino Uno Board with LEDs](0_led)
 * [LCD Display with Arduino Uno](1_lcd)
 * [Ultrasonic Sensor with Arduino Uno](2_ultrasonic)
+* [Flex Sensor with Arduino Uno](3_flex)
